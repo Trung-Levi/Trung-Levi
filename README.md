@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaoTrung37&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baotrung37&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Trung-Levi/Trung-Levi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaoTrung37\&layout=compact)
